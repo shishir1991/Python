@@ -5,7 +5,7 @@
 2. [Files in the Repository](#files-in-the-repository)
 3. [Project Objective](#project-objective)
 4. [Steps of Analysis](#steps-of-analysis)
-   1. [Understanding the Dataset](#understanding-the-dataset)
+   1. [Understanding the Dataset](#Understanding-the-Dataset)
     2. [Descriptive Statistics](#descriptive-statistics)
     3. [Univariate Analysis](#univariate-analysis)
     4. [Bivariate Analysis](#bivariate-analysis)
