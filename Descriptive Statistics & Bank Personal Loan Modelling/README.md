@@ -168,7 +168,7 @@ For questions 8 to 20, we'll be using the Bank Personal Loan Modelling dataset a
 - A Jupyter notebook detailing the steps.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/shishir1991/Descriptive-Statistics-PythonPackage/blob/main/LICENSE.txt) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shishir1991/Python/blob/main/LICENSE) file for more details.
 
 ## Contact
 For any further questions or contributions, please contact us:
