@@ -17,7 +17,7 @@ Welcome to the Real Estate Statistics Project repository! This project focuses o
 This project aims to analyze real estate data in Australia to make statistical inferences for decision making. The dataset contains information about various properties, including their prices, locations, and other attributes.
 
 ## Project Description
-The project uses a dataset [property.csv](https://github.com/shishir1991/Statistics-for-Decision-Making/blob/main/property.csv) containing information about real estate properties, including their prices, locations, and other relevant details. The dataset is used to test two hypotheses:
+The project uses a dataset [Property Dataset](https://github.com/shishir1991/Python/blob/main/Real%20Estate%20Price%20Analysis-Statistics%20for%20Decision%20Making/Property%20Dataset.csv) containing information about real estate properties, including their prices, locations, and other relevant details. The dataset is used to test two hypotheses:
 1. The typical property price in the suburb Altona is $800,000.
 2. There is a difference in property prices between summer and winter months in the year 2016.
 3. For the suburb of Abbotsford, what is the probability that out of 10 properties sold, 3 will not have car parking? Use the column car in the dataset. Round off your answer to 3 decimal places.
