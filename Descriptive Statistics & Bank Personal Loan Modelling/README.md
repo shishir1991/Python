@@ -162,7 +162,7 @@ You are expected to perform statistical analysis for the Bank Personal Loan Mode
 
 For questions 8 to 20, we'll be using the Bank Personal Loan Modelling dataset and Jupyter Notebook for answer the questions.
 
-[JUPYTER NOTEBOOK](https://github.com/shishir1991/Descriptive-Statistics-PythonPackage/blob/main/Descriptive%20Statistics-Jupyter%20Notebook.ipynb)
+[JUPYTER NOTEBOOK](https://github.com/shishir1991/Python/blob/main/Descriptive%20Statistics%20%26%20Bank%20Personal%20Loan%20Modelling/Descriptive%20Statistics-Jupyter%20FIle.ipynb)
 
 ## Deliverables for Solution
 - A Jupyter notebook detailing the steps.
