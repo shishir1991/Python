@@ -1,4 +1,4 @@
-#Comprehensive EDA of Bank Telemarketing Campaign Data
+# Comprehensive EDA of Bank Telemarketing Campaign Data
 
 ## Table of Contents
 1. [Overview](#overview)
