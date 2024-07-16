@@ -73,7 +73,7 @@ Based on the statistical analysis, it can be inferred that there is a need for f
 Contributions to the project are welcome. Feel free to fork the repository and submit pull requests with your enhancements or suggestions.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shishir1991/Python/blob/main/LICENSE) file for details.
 
 
 
