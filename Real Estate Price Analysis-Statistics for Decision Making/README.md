@@ -1,6 +1,7 @@
 # Real Estate Data Analysis for Decision Making
 
-Welcome to the Real Estate Statistics Project repository! This project focuses on analyzing real estate data to derive insights and make informed decisions. Through statistical analysis and hypothesis testing, we aim to provide valuable information for decision-making in the real estate industry.
+#### Welcome to the Real Estate Statistics Project repository!
+This project focuses on analysis of real estate prices in Australia, examining seasonal differences in property prices using hypothesis testing. Through statistical analysis and hypothesis testing, we aim to provide valuable information for decision-making in the real estate industry. Utilized Python for data manipulation and statistical tests.
 
 ## Table of Contents
 - [Introduction](#introduction)
